@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Intan Vionasari',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -26,8 +26,8 @@ class MyApp extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      debugShowCheckedModeBanner: false;
-      home: MyHomePage(title: 'Muhammad Masykur Wildan'),
+      debugShowCheckedModeBanner: false,
+      home: MyHomePage(title: 'Intan Vionasari'),
     );
   }
 }
